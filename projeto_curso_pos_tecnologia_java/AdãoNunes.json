@@ -1,0 +1,12 @@
+{
+  "Matricula": 2023080101,
+  "NotaMedia": 7.0,
+  "NotasPorCurso": {
+    "CURSO [NOME: Lógica de Programação 2: Laços e listas com JavaScript, FORMAÇÃO: Programação a partir do zero, CARGA HORÁRIA 4h, PROFESSOR: João Augusto, MONITOR: Julia Pereira]": 8.0,
+    "CURSO [NOME: Lógica de Programação 1, FORMAÇÃO: Programação a partir do zero, CARGA HORÁRIA 6h, PROFESSOR: Rodrigo Alencar, MONITOR: Jair Rodrigues]": 6.0
+  },
+  "CursosAtivos": [],
+  "Nome": "Adão Nunes",
+  "Email": "adaonunes@email.com",
+  "Telefone": "(24) 99647-7896"
+}
